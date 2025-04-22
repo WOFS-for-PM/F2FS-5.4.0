@@ -16,3 +16,10 @@ tests/.vscode
 build_log
 compile_commands.json
 hunter.S
+.clangd
+.cache
+*.d
+.f2fs.mod.o.d
+.f2fs.mod.cmd
+*.mod.c
+*.mod
